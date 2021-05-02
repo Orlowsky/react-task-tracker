@@ -1,0 +1,31 @@
+{
+  "tasks": [
+    {
+      "id": 0,
+      "text": "new Title",
+      "day": "2th Feb 2020",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "new Title 2",
+      "day": "25th Feb 2020",
+      "reminder": false
+    },
+    {
+      "text": "sadsadsa",
+      "day": "asdsadas",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "dadasd",
+      "day": "adsdasdas",
+      "reminder": true,
+      "id": 4
+    }
+  ],
+  "checkTest": {
+    "text": "here is some text"
+  }
+}
